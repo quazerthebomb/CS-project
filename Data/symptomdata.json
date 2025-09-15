@@ -1,0 +1,52 @@
+{
+  "Dermatology": [
+    "rash",
+    "eczema",
+    "acne",
+    "psoriasis",
+    "dry skin",
+    "hives",
+    "itching",
+    "skin infection"
+  ],
+  "Cardiology": [
+    "chest pain",
+    "palpitations",
+    "shortness of breath",
+    "high blood pressure",
+    "swelling in legs",
+    "irregular heartbeat",
+    "fainting",
+    "angina"
+  ],
+  "Neurology": [
+    "headache",
+    "migraine",
+    "dizziness",
+    "numbness",
+    "tingling",
+    "seizures",
+    "confusion",
+    "weakness on one side"
+  ],
+  "Respiratory": [
+    "cough",
+    "asthma",
+    "wheezing",
+    "sputum",
+    "shortness of breath",
+    "bronchitis",
+    "chest tightness",
+    "lung infection"
+  ],
+  "Psychiatry": [
+    "anxiety",
+    "depression",
+    "insomnia",
+    "panic attacks",
+    "hallucinations",
+    "delusions",
+    "mood swings",
+    "paranoia"
+  ]
+}

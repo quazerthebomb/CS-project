@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Sarah Patel",
+    "specialty": "Dermatology",
+    "email": "sarah.patel@clinic.com"
+  },
+  {
+    "id": 2,
+    "name": "Dr. James Smith",
+    "specialty": "Cardiology",
+    "email": "james.smith@clinic.com"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Emily Chen",
+    "specialty": "Neurology",
+    "email": "emily.chen@clinic.com"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Ahmed Khan",
+    "specialty": "Respiratory",
+    "email": "ahmed.khan@clinic.com"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Laura Gomez",
+    "specialty": "General Practice",
+    "email": "laura.gomez@clinic.com"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

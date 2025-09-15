@@ -1,0 +1,34 @@
+[
+  {
+    "patientUsername": "parsa123",
+    "doctorID": 1,
+    "doctor_name": "Dr. Sarah Patel",
+    "specialty": "Dermatology",
+    "slot": "2025-08-26 10:00",
+    "createdAt": "2025-08-20 14:12"
+  },
+  {
+    "patientUsername": "parsa123",
+    "doctorID": 1,
+    "doctor_name": "Dr. Sarah Patel",
+    "specialty": "Dermatology",
+    "slot": "2025-08-26 09:00",
+    "createdAt": "2025-08-31 00:03"
+  },
+  {
+    "patientUsername": "parsa123",
+    "doctorID": 1,
+    "doctor_name": "Dr. Sarah Patel",
+    "specialty": "Dermatology",
+    "slot": "2025-08-26 12:00",
+    "createdAt": "2025-08-31 01:38"
+  },
+  {
+    "patientUsername": "parsa123",
+    "doctorID": 1,
+    "doctor_name": "Dr. Sarah Patel",
+    "specialty": "Dermatology",
+    "slot": "2025-08-26 11:00",
+    "createdAt": "2025-09-15 00:20"
+  }
+]
